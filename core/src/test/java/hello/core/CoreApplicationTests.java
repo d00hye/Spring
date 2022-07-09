@@ -9,6 +9,7 @@ class CoreApplicationTests {
 	@Test
 	void contextLoads() {
 		//test
+		System.out.println("test");
 	}
 
 }
